@@ -18,3 +18,6 @@ function printstars(n) {
 
 
 printstars(5);
+
+
+
